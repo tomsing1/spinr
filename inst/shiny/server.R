@@ -38,7 +38,7 @@ shinyServer(function(input, output, session) {
   
   output$button <- renderUI({
     if (Remaining() == 0L) {
-      actionButton("goButton", "Start!")
+      actionButton("goButton", "Start the centrifuge!")
     } else {
       NULL
     }
