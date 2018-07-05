@@ -1,0 +1,3 @@
+- all tubes have the same weight
+- the rotor is perfectly circular
+- the positions in the rotor are equally spaced
