@@ -1,17 +1,18 @@
 Package: spinr
-Version: 0.0.0.9000
-Title: What the Package Does (One Line, Title Case)
-Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", , "first.last@example.com", c("aut", "cre"))
-License: What license it uses
+Version: 0.0.1
+Title: Exploring different ways to balance a microcentrifuge
+Description: A shiny application to test whether a microcentrifuge loaded with
+    tubes of the same weight is balanced.
+Authors@R: person("Thomas", "Sandmann", , "tomsing1@gmail.com", c("aut", "cre"))
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
 Imports:
     checkmate (>= 1.8.5),
-    ggplot2 (>= 3.0.0)
-Suggests:
-    jpeg (>= 0.1-8),
+    ggplot2 (>= 3.0.0),
     shiny (>= 1.1.0)
+Suggests:
+    jpeg (>= 0.1-8)
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.0.1
