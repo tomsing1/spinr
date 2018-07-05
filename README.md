@@ -7,7 +7,8 @@ It was inspired by
 [Martin Johnsson's blog post](https://onunicornsandgenes.blog/2016/06/11/balancing-a-centrifuge/)
 and 
 [Peil and Hauryliuk's arXiv preprint](https://arxiv.org/ftp/arxiv/papers/1004/1004.3671.pdf)
-referenced in Martin's post.
+referenced in Martin's post. Martin shared 
+[his original code in this gist](https://github.com/mrtnj/rstuff/blob/master/centrifuge.R).
 
 ## Shiny app
 
